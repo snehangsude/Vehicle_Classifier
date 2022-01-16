@@ -1,4 +1,6 @@
-# Vehicle_Classifier
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snehangsude/Vehicle_Classifier/main?urlpath=%2Fvoila%2Frender%2Fvehicle_classifier.ipynb)
+
+# Vehicle Classifier
 
 This is a Deep-Learning model trained on selected vehicles to identify/classify vehicles using any image. <br>
 To try it for yourself, please click <a href="https://bit.ly/3IaI5jD">here</a>
